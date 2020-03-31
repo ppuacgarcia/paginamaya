@@ -1,0 +1,16 @@
+header h1 {
+    opacity: ;
+    background-color: #A2C523;
+    color: #ffff;
+    margin-left: 150px;
+    margin top: 0px;
+}
+
+body {
+    background: #ffffff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
