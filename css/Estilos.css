@@ -1,3 +1,15 @@
+
+img.logo
+{
+        right:500;
+        border:1px;
+        border-color:#0000;
+        display: inline-block;
+}
+body
+{
+  background:url(imagenes/ss.jpg);
+}
 header h1 {
     background-color: #A2C523;
     color: #ffff;
@@ -12,4 +24,5 @@ h5.parrafo br {
     color: #0000;
     font-style: Algerian;
     size: 30px;
+
 }
