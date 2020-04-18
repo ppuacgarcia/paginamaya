@@ -64,7 +64,7 @@ img {
 }
 
 body {
-    background-image: url(../imagenes/fondo.jpeg);
+    background-image: url(../imagenes/fondo.jpg);
     background-attachment:fixed ;
     background-repeat: repeat-x;
     background-size: cover;
