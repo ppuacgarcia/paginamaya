@@ -1,3 +1,4 @@
+ lugares-turisticos
 header h1 {
 
     background-color: #A2C523;
@@ -5,12 +6,70 @@ header h1 {
     margin-left: 150px;
     margin: 0px;
 }
+Index
 
-body {
-    background: #ffffff;
+.logo 
+{
+    float:left;
+    width:128px;
+    height: 128px;
+}
+/* comin*/
+header h1 
+{ 
+  text-align: center;
+  padding:35px;
+  height: 10%;
+  width:95%;
+  color:#ffffff;
+  background:#c70039;
+  left:200px;
+  margin-bottom: 1px;
 }
 
-* {
-    margin: 0;
-    padding: 0;
+div .menu
+{   
+    text-decoration: none;
+    font-weight: normal;
+    width:19.5%;
+    height: 5%;
+    color:#551400;
+    background:#fec536 ;
+    float: left;
+    padding:5px;
+    text-align: center;
+    margin-left: 1px;
+    margin-right: 1px;
+    margin:#551400;
+    padding: 2.2px;
+}
+div .menu:hover
+{
+    background:#e77e01;
+}
+html 
+{
+    font-family:Arial, Helvetica, sans-serif;
+}
+img.contenedor
+{
+    background-position-x: center;
+width:100%;
+height: 50%;
+position: relative;
+}
+body
+{
+    background:#900c3f;
+}
+.parrafo 
+{
+    padding: 1em;
+    width: 30%;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    color: #ffffff;;
+    background: #ff5733;
+    opacity: 50%;
 }
