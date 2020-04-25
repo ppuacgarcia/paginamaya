@@ -1,1 +1,79 @@
 /*aqui van los estilos de explorando la civilizacion maya */
+ h2 {color: green;
+    width: 20 %;
+    height: 20 %;
+    margin: inline ;
+    
+}
+h3 {color: blue;}
+ 
+img { 
+    width: 50%;
+    height: 30%;
+    margin: auto;
+    display: block;
+}
+.intro { 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+.caja1{
+    font-family: "verdana";
+    width: 500 ;
+    background: chartreuse;
+}
+
+.caja2 {
+    position:relative ;
+    bottom: 500;
+    left: 700 ;
+    font-family: "verdana";
+    width: 500 ;
+    background: chartreuse;
+    
+
+}
+
+.caja3 {
+    position:relative ;
+    bottom: 1000;
+    left: 1300 ;
+    font-family: "verdana";
+    width: 500 ;
+    background: chartreuse;
+
+}
+
+.caja4 {
+    position:relative ;
+    bottom: 900;
+    left: 300 ;
+    font-family: "verdana";
+    width: 500 ;
+    background: chartreuse;
+
+}
+.caja5 {
+    position:relative ;
+    bottom: 1440;
+    left: 1000 ;
+     font-family: "verdana";
+     width: 500 ;
+    background: chartreuse;
+
+}
+
+body {
+    background-image: url(../imagenes/fondo.jpeg);
+    background-attachment:fixed ;
+    background-repeat: repeat-x;
+    background-size: cover;
+    background-position: center  ;
+    
+}
+ body:before { 
+     background: linear-gradient( white, yellow );
+     opacity: 1;
+ }
+
+
