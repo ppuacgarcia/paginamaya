@@ -1,5 +1,6 @@
 /*aqui van los estilos de explorando la civilizacion maya */
- h2 {color: green;
+h2 {color: green;
+
     width: 20 %;
     height: 20 %;
     margin: inline ;
@@ -64,7 +65,9 @@ img {
 }
 
 body {
+
     background-image: url(../imagenes/fondo.jpeg);
+
     background-attachment:fixed ;
     background-repeat: repeat-x;
     background-size: cover;
