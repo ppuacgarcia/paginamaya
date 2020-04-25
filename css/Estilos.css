@@ -13,7 +13,7 @@ header h1
   height: 10%;
   width:95%;
   color:#ffffff;
-  background:#1c1208;
+  background:#c70039;
   left:200px;
   margin-bottom: 1px;
 }
@@ -51,7 +51,7 @@ position: relative;
 }
 body
 {
-    background:#fec536;
+    background:#900c3f;
 }
 .parrafo 
 {
@@ -61,6 +61,6 @@ body
     top:50%;
     left: 50%;
     color: #ffffff;;
-    background: #551400;
+    background: #ff5733;
     opacity: 50%;
 }
