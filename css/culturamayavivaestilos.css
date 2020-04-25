@@ -1,4 +1,7 @@
 /*aqui van los estilos de la pagina cultura maya viva */
+*{
+    text-decoration: none;
+}
 body{
     background: #00565f;
     font-family: Arial, Helvetica, sans-serif ;
@@ -27,7 +30,7 @@ div ul{
     padding-bottom: 10px;
     display: flex ;
     align-items: center;
-    justify-content: center
+    justify-content: center;
 }
 .abajo{
     clear: both;
