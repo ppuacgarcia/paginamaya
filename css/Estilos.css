@@ -13,7 +13,7 @@ header h1
   height: 10%;
   width:95%;
   color:#ffffff;
-  background:#c70039;
+  background:#58508c;
   left:200px;
   margin-bottom: 1px;
 }
@@ -25,7 +25,7 @@ div .menu
     width:19.5%;
     height: 5%;
     color:#551400;
-    background:#fec536 ;
+    background:#ffa602 ;
     float: left;
     padding:5px;
     text-align: center;
@@ -51,7 +51,7 @@ position: relative;
 }
 body
 {
-    background:#900c3f;
+    background:#00405c;
 }
 .parrafo 
 {
@@ -61,6 +61,6 @@ body
     top:50%;
     left: 50%;
     color: #ffffff;;
-    background: #ff5733;
+    background: #58508c;
     opacity: 50%;
 }
