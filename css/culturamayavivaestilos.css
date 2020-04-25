@@ -1,6 +1,6 @@
 /*aqui van los estilos de la pagina cultura maya viva */
 body{
-    background: #229a87;
+    background: #00565f;
     font-family: Arial, Helvetica, sans-serif ;
     color: white;
     text-align: center;
@@ -24,8 +24,10 @@ div ul li{
     font-size: 115%;
 }
 div ul{
-    display: inline-block;
-    line-height: 30px;
+    padding-bottom: 10px;
+    display: flex ;
+    align-items: center;
+    justify-content: center
 }
 .abajo{
     clear: both;
@@ -45,7 +47,7 @@ h3{
     padding: 10px;
 }
 p{
-    font-size: 123%;
+    font-size: 120%;
     width: 55%;
     height: 200px;
     background: #5f9ccc;
@@ -58,11 +60,12 @@ p{
     width: 100%;
     height: 300px;
 }
-.centrar{
-    text-align: center;
-}
 #fondomenu{
     background:  #5f9ccc;
     height: 50px;
     width: 100%;
+}
+#final{
+    width: 100%;
+    height: 75px;
 }
