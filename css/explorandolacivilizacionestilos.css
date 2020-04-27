@@ -1,82 +1,82 @@
 /*aqui van los estilos de explorando la civilizacion maya */
-h2 {color: green;
-
-    width: 20 %;
-    height: 20 %;
-    margin: inline ;
-    
+*{
+    text-decoration: none;
+    color: white;
 }
-h3 {color: blue;}
- 
-img { 
-    width: 50%;
-    height: 30%;
+.logo 
+{
+    float:left;
+    width:128px;
+    height: 128px;
+}
+header h1 
+{ 
+  text-align: center;
+  padding:35px;
+  height: 10%;
+  color:#ffffff;
+  background:#00655f;
+}
+
+div .menu
+{   
+    text-decoration: none;
+    font-weight: normal;
+    width:19.45%;
+    height: 5%;
+    color:#ffffff;
+    background:#5f9ccc ;
+    float: left;
+    padding:.27%;
+    text-align: center;
+}
+div .menu:hover
+{
+    background:#195b8d;
+}
+.final{
+    width: 100%;
+    height: 75px;
+}
+body{
+    background: #00565f;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+h1{
+    text-align: center;
+}
+#intro{
+    background:#5f9ccc ;
+    width: 70%;
+    height: auto;
     margin: auto;
-    display: block;
+    font-size: 125%;
 }
-.intro { 
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 20px;
+.centrar{
+    padding: 10px;
 }
-.caja1{
-    font-family: "verdana";
-    width: 500 ;
-    background: chartreuse;
+body{
+    margin: auto;
+    text-align: center;
 }
-
-.caja2 {
-    position:relative ;
-    bottom: 500;
-    left: 700 ;
-    font-family: "verdana";
-    width: 500 ;
-    background: chartreuse;
-    
-
+section{
+    width: 70%;
+    margin: auto;
 }
-
-.caja3 {
-    position:relative ;
-    bottom: 1000;
-    left: 1300 ;
-    font-family: "verdana";
-    width: 500 ;
-    background: chartreuse;
-
+section p{
+    background:#5f9ccc ;
+    height: auto;
+    padding: 10px;
+    margin: auto;
+    width: 100%;
+    font-size: 125%;
 }
-
-.caja4 {
-    position:relative ;
-    bottom: 900;
-    left: 300 ;
-    font-family: "verdana";
-    width: 500 ;
-    background: chartreuse;
-
+section img{
+    width: 500px;
+    height: auto;
+    padding: 10px;
+    padding-bottom: 25px;;
 }
-.caja5 {
-    position:relative ;
-    bottom: 1440;
-    left: 1000 ;
-     font-family: "verdana";
-     width: 500 ;
-    background: chartreuse;
-
+h3{
+    font-size: 120%;
 }
-
-body {
-
-    background-image: url(../imagenes/fondo.jpeg);
-
-    background-attachment:fixed ;
-    background-repeat: repeat-x;
-    background-size: cover;
-    background-position: center  ;
-    
-}
- body:before { 
-     background: linear-gradient( white, yellow );
-     opacity: 1;
- }
-
-
