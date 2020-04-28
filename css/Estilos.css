@@ -11,7 +11,7 @@ header h1
   padding:35px;
   height: 10%;
   color:#ffffff;
-  background:#00655f;
+  background:#00565f;
 }
 
 div .menu
@@ -37,7 +37,8 @@ html
 }
 body
 {
-    background: #00655f;
+    background: #00565f;
+    color: #000000;;
 }
 img.contenedor
 {

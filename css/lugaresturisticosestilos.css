@@ -1,28 +1,24 @@
 /*Aqui van los estilos de lugares  turisticos*/
-*{
-    padding: 0;
-    margin: 0;
-}
-body{
-    background: #ffffff;
-}
+
+
 h3{
-    color:blue;
+    color:#00565f;
 }
 
 f div {
     width: 30%;
-    height: 80%;
-    background: white;
+    height:90%;
+    background: #ffffff;
     float: left;
+    padding: 1%;
 }
 
 .caja01{
+    
     position: relative;
-    top:0%;
-    bottom:0%;
-    right: 0%;
-    left:1%;
+    top:10%;
+    left:0%;
+
 }
 
 .caja{
@@ -30,43 +26,35 @@ position: relative;
 top:0%;
 bottom:0%;
 right: 0%;
-left:4%;
+left:2%;
+
 }
 
 .caja2{
     position: relative;
-    top:0;
+    top:0%;
     bottom:0;
     right: 0;
-    left:7%;   
+    left:3.7%;
+     
 }
-.caja3{
+.caja3
+{
     position: relative;
-    top:0;
-    bottom:0;
-    right: 0;
-    left:1%;   
+    top:1%;
+    left:0%;
+    top:1em;
 }
 
 .caja4{
     position: relative;
-    top:0;
-    bottom:0;
-    right: 0;
-    left:4%;   
+    left:2%;
+    top:1em;
 }
 
 .caja5{
     position: relative;
-    top:0;
-    bottom:0;
-    right: 0;
-    left:7%;   
+    left:3.7%;
+    top:1em;
 }
-.caja0{
-    width: 100%;
-    height: 5%;
-    background: rgb(192, 255, 203);
-    border-radius: 10px;
-    box-shadow: 15px -10px 0px rgb(53, 243, 135);
-}
+

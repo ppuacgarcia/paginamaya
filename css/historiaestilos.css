@@ -1,1 +1,61 @@
 /*aqui van los estilos de historia*/
+*{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.logo 
+{
+    float:left;
+    width:128px;
+    height: 128px;
+}
+header h1 
+{ 
+  text-align: center;
+  padding:35px;
+  height: 10%;
+  color:#ffffff;
+  background:#00565f;
+}
+div .menu
+{   
+    text-decoration: none;
+    font-weight: normal;
+    width:19.45%;
+    height: 5%;
+    color:#ffffff;
+    background:#5f9ccc ;
+    float: left;
+    padding:.27%;
+    text-align: center;
+}
+div .menu:hover
+{
+    background:#195b8d;
+}
+.final{
+    width: 100%;
+    height: 75px;
+}
+body{
+    background: #00565f;
+}
+#pag{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+body div img{
+    width: 550px;
+    height: auto;
+}
+p{
+    width: 100%;
+    padding: 15px;
+    background: #5f9ccc;
+    font-size: 125%;
+}
+h2{
+    font-size: 130%;
+}
