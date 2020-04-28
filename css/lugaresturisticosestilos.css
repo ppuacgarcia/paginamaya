@@ -2,22 +2,22 @@
 
 
 h3{
-    color:blue;
+    color:#00565f;
 }
 
 f div {
     width: 30%;
-    height: 80%;
-    background: #313131;;
+    height:90%;
+    background: #ffffff;
     float: left;
+    padding: 1%;
 }
 
 .caja01{
     
-    position: absolutes;
+    position: relative;
     top:10%;
-    
-    padding: 2%;
+    left:0%;
 
 }
 
@@ -26,7 +26,8 @@ position: relative;
 top:0%;
 bottom:0%;
 right: 0%;
-left:4%;
+left:2%;
+
 }
 
 .caja2{
@@ -34,32 +35,25 @@ left:4%;
     top:0%;
     bottom:0;
     right: 0;
-    left:7%;   
+    left:3.7%;
+     
 }
-.caja3{
+.caja3
+{
     position: relative;
-    top:0%;
-    bottom:0;
-    right: 0;
-    left:1%;   
+    top:1%;
+    left:0%;
+    top:1em;
 }
 
 .caja4{
     position: relative;
-    top:0;
-    bottom:0;
-    right: 0;
-    left:4%;   
+    left:2%;
+    top:1em;
 }
 
 .caja5{
     position: relative;
-    top:0;
-    bottom:0;
-    right: 0;
-    left:7%;   
-}
-f
-{
-padding: 2%;
+    left:3.7%;
+    top:1em;
 }
